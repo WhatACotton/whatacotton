@@ -9,6 +9,3 @@ Hi there, I'm WhatACotton 👋
   <img alt="github stats" width="54.6%" src="https://github-readme-stats.vercel.app/api?username=whatacotton&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=whatacotton&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
