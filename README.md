@@ -21,10 +21,10 @@ Caris Works is a platform e-commerce site specializing in the sale of bracelets 
 
 ### flamework
 
-- gRPC (typrscript,golang)
+- gRPC (typescript,golang)
 - REST flamework (typescript,golang)
 
-### skils
+### skills
 
 - DI dependency injection
 - testing
