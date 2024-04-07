@@ -49,7 +49,7 @@ Caris Works is a platform e-commerce site specializing in the sale of bracelets 
 
 ## Sub
 
-[![Sub Stack](https://skillicons.dev/icons?i=python,php,cs,java,mui,latex,md,obsidian)](https://skillicons.dev)
+[![Sub Stack](https://skillicons.dev/icons?i=python,php,cs,java,mui,latex,md,obsidian,ubuntu,mint)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 
