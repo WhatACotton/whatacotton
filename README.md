@@ -36,9 +36,9 @@ Caris Works is a platform e-commerce site specializing in the sale of bracelets 
 [![Main Stack](https://skillicons.dev/icons?i=ts,go)](https://skillicons.dev)
 
 ### others
-[![Main Stack](https://skillicons.dev/icons?i=arch,linux,next,mysql,firebase,github,githubactions,docker,nginx)](https://skillicons.dev)
+[![Main Stack](https://skillicons.dev/icons?i=arch,linux,mysql,firebase,github,githubactions,docker,nginx)](https://skillicons.dev)
 
-[![Main Stack](https://skillicons.dev/icons?i=md,obsidian,react,jest,cloudflare,bun,astro)](https://skillicons.dev)etc...
+[![Main Stack](https://skillicons.dev/icons?i=react,next,jest,bun,astro,cloudflare)](https://skillicons.dev)etc...
 
 - gin (golang library)
 - chakra ui (css library)
@@ -49,7 +49,7 @@ Caris Works is a platform e-commerce site specializing in the sale of bracelets 
 
 ## Sub
 
-[![Sub Stack](https://skillicons.dev/icons?i=python,php,cs,java,mui,latex)](https://skillicons.dev)
+[![Sub Stack](https://skillicons.dev/icons?i=python,php,cs,java,mui,latex,md,obsidian)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 
