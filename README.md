@@ -3,7 +3,7 @@
 
 <p>Name: Hiroto Watanabe<br/>
 Contact: contact@whatacotton.com<br/>
-Affiliation: College of Information Science, School Of Informatics, University of Tsukuba<br/>
+Affiliation: College of Information Science, School Of Informatics, University of Tsukuba in Japan<br/>
 My blog: <a href="https://blog.whatacotton.com/p/intro">whatacottonの備忘録</a><br/>
 GitHub: WhatACotton</p>
 
