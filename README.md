@@ -12,7 +12,7 @@ GitHub: WhatACotton</p>
 
 [Charis Works](https://charis.works)
 
-Caris Works is a platform e-commerce site specializing in the sale of bracelets and sundries. We use Firebase Auth for account authentication and stripe for payment.
+Caris Works is a platform e-commerce site specializing in the sale of bracelets and sundries. We use stripe for payment.
 
 # My Stacks
 - **web frontend**
