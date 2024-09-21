@@ -10,7 +10,7 @@ GitHub: WhatACotton</p>
 
 # My Product
 
-[Charis Works](https://beta.charis.works) (test releasing now,yet production release)
+[Charis Works](https://charis.works)
 
 Caris Works is a platform e-commerce site specializing in the sale of bracelets and sundries. We use Firebase Auth for account authentication and stripe for payment.
 
