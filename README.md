@@ -33,23 +33,28 @@ Caris Works is a platform e-commerce site specializing in the sale of bracelets 
 ## Main
 
 ### languages
-[![Main Stack](https://skillicons.dev/icons?i=ts,go)](https://skillicons.dev)
+[![Main Stack](https://skillicons.dev/icons?i=ts,go,python)](https://skillicons.dev)
 
 ### others
-[![Main Stack](https://skillicons.dev/icons?i=arch,linux,mysql,firebase,github,githubactions,docker,nginx)](https://skillicons.dev)
+[![Main Stack](https://skillicons.dev/icons?i=arch,linux,mysql,github,githubactions,docker)](https://skillicons.dev)
 
-[![Main Stack](https://skillicons.dev/icons?i=react,next,jest,bun,astro,cloudflare)](https://skillicons.dev)etc...
+[![Main Stack](https://skillicons.dev/icons?i=react,next,cloudflare,electron)](https://skillicons.dev)etc...
 
 - gin (golang library)
-- chakra ui (css library)
-- Stripe SDK
-- R2 (Cloudflare object storage)
-- PVE (Proxmox Virtual Environment)
+- chi (golang library)
+
 
 
 ## Sub
 
-[![Sub Stack](https://skillicons.dev/icons?i=python,php,cs,java,mui,latex,md,obsidian,ubuntu,mint)](https://skillicons.dev)
+[![Sub Stack](https://skillicons.dev/icons?i=flask,vite,arduino,nix,scala,jest,bun,astro,firebase,nginx,php,cs,java,mui,latex,md,obsidian,ubuntu,mint)](https://skillicons.dev)
+
+- chakra ui (css library)
+- Stripe SDK
+- R2 (Cloudflare object storage)
+- PVE (Proxmox Virtual Environment)
+- chisel(DSA for HDL)
+- verilog
 
 # 📊 GitHub Stats
 
