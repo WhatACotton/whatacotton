@@ -36,9 +36,11 @@ Caris Works is a platform e-commerce site specializing in the sale of bracelets 
 [![Main Stack](https://skillicons.dev/icons?i=ts,go,python,cpp,c)](https://skillicons.dev)
 
 ### others
-[![Main Stack](https://skillicons.dev/icons?i=arch,linux,mysql,github,githubactions,docker)](https://skillicons.dev)
+[![Main Stack](https://skillicons.dev/icons?i=arch,ubuntu,linux,obsidian,mysql,github,githubactions,docker)](https://skillicons.dev)
 
-[![Main Stack](https://skillicons.dev/icons?i=react,vite,next,cloudflare,flask)](https://skillicons.dev)etc...
+[![Main Stack](https://skillicons.dev/icons?i=react,vite,next,cloudflare,flask)](https://skillicons.dev)
+
+etc...
 
 - gin (golang library)
 - chi (golang library)
@@ -47,7 +49,9 @@ Caris Works is a platform e-commerce site specializing in the sale of bracelets 
 
 ## Sub
 
-[![Sub Stack](https://skillicons.dev/icons?i=electron,arduino,nix,scala,jest,bun,astro,firebase,nginx,php,cs,java,mui,latex,md,obsidian,ubuntu,mint)](https://skillicons.dev)
+[![Sub Stack](https://skillicons.dev/icons?i=electron,jest,bun,astro,firebase)](https://skillicons.dev)
+
+[![Sub Stack](https://skillicons.dev/icons?i=arduino,nginx,nix,php,cs)](https://skillicons.dev)
 
 - chakra ui (css library)
 - Stripe SDK
