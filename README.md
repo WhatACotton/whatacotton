@@ -9,5 +9,3 @@ GitHub: WhatACotton</p>
 # 📊 GitHub Stats
 
 ![](https://raw.githubusercontent.com/WhatACotton/whatacotton/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)
-![](https://raw.githubusercontent.com/WhatACotton/whatacotton/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/WhatACotton/whatacotton/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)
